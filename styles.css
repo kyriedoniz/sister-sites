@@ -1,0 +1,41 @@
+h1 {
+  color: white;
+  font-family: 'Delius Unicase', cursive;
+  text-align: center;
+}
+
+.image {
+  width: 300px;
+  image-orientation: center;
+}
+
+b{
+  font-family: geneva;
+  color: skyblue;
+  text-align: center;
+}
+
+.image1 {
+  width: 300px;
+  image-orientation: center;
+}
+
+.image2 {
+  width: 300px;
+  image-orientation: center;
+}
+
+.image3 {
+  width: 300px;
+  image-orientation: center;
+}
+
+.image4 {
+  width: 300px;
+  image-orientation: center;
+}
+
+body {
+  background-color: #b76c95;
+  font-family: sans-serif;
+}
